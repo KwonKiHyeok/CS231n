@@ -9,7 +9,7 @@ any questions please email to newhaneul1234@gmail.com
 My assignment solutions for CS231n <br/>
 
 ### Assignment 1:
-- Q1: k-Nearest Neighbor classifier *(yet)*<br/>
+- [Q1](assignment1/knn.ipynb): k-Nearest Neighbor classifier *(Done)*<br/>
 - Q2: Implement a Softmax classifier *(yet)*<br/>
 - Q3: Two-Layer Neural Network *(yet)*<br/>
 - Q4: Higher Level Representations: Image Features *(yet)*<br/>
