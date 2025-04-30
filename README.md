@@ -12,7 +12,7 @@ My assignment solutions for CS231n <br/>
 - [Q1](assignment1/knn.ipynb): k-Nearest Neighbor classifier *(Done)*<br/>
 - [Q2](assignment1/softmax.ipynb): Implement a Softmax classifier *(Done)*<br/>
 - [Q3](assignment1/two_layer_net.ipynb): Two-Layer Neural Network *(Done)*<br/>
-- Q4: Higher Level Representations: Image Features *(yet)*<br/>
+- [Q4](assignment1/features.ipynb): Higher Level Representations: Image Features *(yet)*<br/>
 - [Q5](assignment1/FullyConnectedNets.ipynb): Training a fully connected network *(Done)*<br/>
 
 ### Assignment 2:
