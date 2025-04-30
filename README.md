@@ -13,7 +13,7 @@ My assignment solutions for CS231n <br/>
 - [Q2](assignment1/softmax.ipynb): Implement a Softmax classifier *(Done)*<br/>
 - [Q3](assignment1/two_layer_net.ipynb): Two-Layer Neural Network *(Done)*<br/>
 - Q4: Higher Level Representations: Image Features *(yet)*<br/>
-- [Q5](assignment1/cs231n/classifiers/fc_net.py): Training a fully connected network *(Done)*<br/>
+- [Q5](assignment1/FullyConnectedNets.ipynb): Training a fully connected network *(Done)*<br/>
 
 ### Assignment 2:
 - Q1: Batch Normalization *(yet)*<br/>
