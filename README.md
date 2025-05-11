@@ -17,7 +17,7 @@ My assignment solutions for CS231n <br/>
 
 ### Assignment 2:
 - [Q1](assignment2/BatchNormalization.ipynb): Batch Normalization *(Done)*<br/>
-- Q2: Dropout *(yet)*<br/>
+- [Q2](assignment2/Dropout.ipynb): Dropout *(Done)*<br/>
 - Q3: Convolutional Neural Networks *(yet)*<br/>
 - Q4: PyTorch on CIFAR-10 *(yet)*<br/>
 - Q5: Image Captioning with Vanilla RNNs *(yet)*<br/>
