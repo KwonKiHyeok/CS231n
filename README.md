@@ -1,4 +1,4 @@
-## cs231n: Deep Learning for Computer Vision assignments - Spring 2025
+## CS231n: Deep Learning for Computer Vision assignments - Spring 2025
 
 This repository contains my solutions to the assignments of the CS231n course offered by Stanford University (Spring 2025).
 
