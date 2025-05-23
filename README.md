@@ -9,7 +9,7 @@ any questions please email to newhaneul1234@gmail.com
 My assignment solutions for CS231n <br/>
 
 ### Assignment 1:
-- [Q1](assignment1/knn.ipynb): k-Nearest Neighbor classifier *(Done)*<br/>
+- [Q1](assignment1/knn.ipynb): K-Nearest Neighbor classifier *(Done)*<br/>
 - [Q2](assignment1/softmax.ipynb): Implement a Softmax classifier *(Done)*<br/>
 - [Q3](assignment1/two_layer_net.ipynb): Two-Layer Neural Network *(Done)*<br/>
 - [Q4](assignment1/features.ipynb): Higher Level Representations: Image Features *(Done)*<br/>
@@ -23,3 +23,7 @@ My assignment solutions for CS231n <br/>
 - [Q5](assignment2/RNN_Captioning_pytorch.ipynb): Image Captioning with Vanilla RNNs *(Done)*<br/>
 
 ### Assignment 3:
+- [Q1]: Image Captioning with Transformers *(yet)*<br/>
+- [Q2]: Self-Supervised Learning for Image Classification *(yet)*<br/>
+- [Q3]: Denoising Diffusion Probbilistic Models *(yet)*<br/>
+- [Q4]: CLIP and Dino: Image Features *(yet)*<br/>
