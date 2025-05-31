@@ -23,7 +23,7 @@ My assignment solutions for CS231n <br/>
 - [Q5](assignment2/RNN_Captioning_pytorch.ipynb): Image Captioning with Vanilla RNNs *(Done)*<br/>
 
 ### Assignment 3:
-- [Q1]: Image Captioning with Transformers *(yet)*<br/>
+- [Q1](assignment3/Transformer_Captioning.ipynb): Image Captioning with Transformers *(Done)*<br/>
 - [Q2]: Self-Supervised Learning for Image Classification *(yet)*<br/>
 - [Q3]: Denoising Diffusion Probbilistic Models *(yet)*<br/>
 - [Q4]: CLIP and Dino: Image Features *(yet)*<br/>
