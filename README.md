@@ -24,6 +24,6 @@ My assignment solutions for CS231n <br/>
 
 ### Assignment 3:
 - [Q1](assignment3/Transformer_Captioning.ipynb): Image Captioning with Transformers *(Done)*<br/>
-- [Q2]: Self-Supervised Learning for Image Classification *(yet)*<br/>
+- [Q2](assignment3/Self_Supervised_Learning.ipynb): Self-Supervised Learning for Image Classification *(yet)*<br/>
 - [Q3]: Denoising Diffusion Probbilistic Models *(yet)*<br/>
 - [Q4]: CLIP and Dino: Image Features *(yet)*<br/>
